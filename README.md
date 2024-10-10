@@ -12,7 +12,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m learning with [Programming](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning Golang, Java, C++
 
@@ -22,9 +22,9 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **rabiussunny1@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:
 
 <h3 align="left">Connect with me:</h3>
 
